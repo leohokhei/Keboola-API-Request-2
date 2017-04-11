@@ -5,7 +5,7 @@
 #### API request and output into CSV                                                           
 
 ## Data Insight
-### There are few locations raining or snowing all the time within the provided date range. It seems like most the locations are passing through the winter to spring phrase.
+### Most of the locations are either raining or snowing all the time within the provided date range. It seems like most the locations are passing through the winter to spring phrase when the streets are soaked with pouring rain.
 
 
 
