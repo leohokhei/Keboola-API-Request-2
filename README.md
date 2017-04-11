@@ -1,8 +1,8 @@
 # Keboola-API-Request-2
-### Prepared by Leo Chan                                                                      ###
-### Python Ver 2.7                                                                            ###
-### Requirements:                                                                             ###
-### API request and output into CSV                                                           ###
+#### Prepared by Leo Chan                                                                      
+#### Python Ver 2.7                                                                            
+#### Requirements:                                                                             
+#### API request and output into CSV                                                           
 
 ## Data Insight
 ### There are few locations raining or snowing all the time within the provided date range. It seems like most the locations are passing through the winter to spring phrase.
